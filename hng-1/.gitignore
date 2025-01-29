@@ -1,4 +1,4 @@
-README.md
+HNG-1.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
