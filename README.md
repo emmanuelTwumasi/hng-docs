@@ -9,7 +9,7 @@ This repository is part of the **HNG Assignment - Backend Track** and contains m
     - **Email**
     - **GitHub URL**
     - **Current Date-Time**
-- See [Details Module README](hng-1/README.md) for more information.
+- See [Details Module README](hng-1/HNG-1.md) for more information.
 
 ## Prerequisites
 Ensure you have the following installed:
