@@ -1,7 +1,7 @@
 package com.emma.hng;
 
 public enum CONSTANTS {
-    EMAIL("protwumasi@gmail.com"), GITHUB_URL("github.com/emmanueltwumasi");
+    EMAIL("protwumasi@gmail.com"), GITHUB_URL("https://github.com/emmanuelTwumasi/hng-docs");
     private final String value;
     CONSTANTS(String value) {
         this.value = value;

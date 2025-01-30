@@ -6,7 +6,7 @@ import java.time.LocalDateTime;
 
 public class ResponseData implements Serializable {
     private String email;
-    private LocalDateTime current_datetime;
+    private String current_datetime;
     private String github_url;
 
     public String getEmail() {
@@ -17,11 +17,11 @@ public class ResponseData implements Serializable {
         this.email = email;
     }
 
-    public LocalDateTime getCurrent_datetime() {
+    public String getCurrent_datetime() {
         return current_datetime;
     }
 
-    public void setCurrent_datetime(LocalDateTime current_datetime) {
+    public void setCurrent_datetime(String current_datetime) {
         this.current_datetime = current_datetime;
     }
 
