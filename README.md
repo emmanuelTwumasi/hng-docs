@@ -53,6 +53,9 @@ $ java -jar target/hng-docs-1.0.0.jar
 
 ## Contribution
 Feel free to fork this repository and submit a pull request if you would like to contribute!
+ 
+- For more info [hng-java-developers](https://hng.tech/hire/java-developers)
+
 
 ## License
 This project is open-source and available under the **MIT License**.
